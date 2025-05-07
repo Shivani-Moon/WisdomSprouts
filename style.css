@@ -1,0 +1,77 @@
+.customBG-color{
+    background-color: darkslategrey;
+    color: white;
+}
+.customWhite{
+    color: white;
+
+}
+.customLink{
+    color: white;
+}
+.customLink:link{
+    text-decoration: none;
+    color: white;
+
+}
+.footerUL{
+    list-style-type: none;
+    /* font-size: larger; */
+
+}
+/* .footerLI{
+    margin-bottom: 15px;
+    padding-left: 10px;
+
+}
+.footerLI::before{
+    content: '--';
+} */
+.customLink:hover{
+    color: rgb(56, 146, 126);
+}
+.courseLink{
+    color: darkslategrey;
+}
+.customstyle{
+    background-color: darkslategrey; 
+    color: white; 
+    text-align: center; 
+    height: 150px;
+
+}
+.customabout{
+    background-color: darkslategrey; 
+    color: white; 
+    height: 400px; 
+}
+.customcarouselimg{
+    height: 650px;
+}
+.customparadetails{
+    font-weight: bolder;
+}
+.topArrow{
+    width: 50px;
+    position:sticky;
+    left: 95%;
+    bottom: 50px;
+    border: 2px 2px ridge white;
+    border-radius: 20%;
+    text-align: center;
+    background-color: rgb(0, 41, 41);
+}
+.textTop:hover{
+    color: white;
+}
+.Appicon{
+    position:fixed;
+    left: 95%;
+    bottom: 120px;
+     
+}
+.textTop{
+    color: white;
+    text-decoration: none;
+}
+
